@@ -33,7 +33,25 @@ Understanding the evolution of public sentiment and themes in movie reviews has 
 
 By addressing these challenges, this project aims to provide a nuanced understanding of how public opinion and thematic focus on "Gone with the Wind" have transformed over the years. The findings could offer valuable insights into the impact of historical and cultural shifts on the reception of classic films.
 
-2. Literature Review and Related Work
-- Expand on your initial literature review from Milestone 2.
+
+## Literature Review:
+
+1.  **Analytics Vidhya Article: Complete Guide to Analyzing Movie Reviews using NLP:** https://www.analyticsvidhya.com/blog/2022/09/complete-guide-to-analyzing-movie-reviews-using-nlp/
+
+Key Points:
+
+*  Introduces various NLP techniques for analyzing movie reviews, including
+     sentiment analysis, topic modeling, and aspect-based sentiment analysis.
+*  Discusses preprocessing steps such as tokenization, stop word removal, and
+     stemming/lemmatization.
+   
+Relevance to my Work:
+
+*  Provides foundational understanding of NLP techniques specifically
+     tailored for movie review analysis.
+*  Guides on preprocessing steps essential for cleaning and preparing textual
+     data from IMDb or similar datasets.
+
+     
 - Discuss at least 3-5 relevant resources (blog posts, tutorials, or academic papers with code implementations) related to your topic. You may use examples from the class.
 - Critically evaluate these resources, highlighting how they inform your approach and how your project differs or builds upon existing work.
