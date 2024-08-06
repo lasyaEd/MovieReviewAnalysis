@@ -72,4 +72,7 @@ Relevance to my Work:
 
      * Model Evaluation and Optimization
      Evaluation Metrics: The article highlights various evaluation metrics, such as accuracy, precision, recall, and F1-score, which I      have used to assess the performance of your sentiment analysis models.
-     
+
+3. https://365datascience.com/tutorials/python-tutorials/sentiment-analysis-with-python/: The article "How to Perform Sentiment Analysis with Python" from 365 Data Science provides a step-by-step guide to building a sentiment analysis model using Python. It covers essential steps including data preprocessing, TF-IDF vectorization, and training a logistic regression model. The tutorial also emphasizes evaluating model performance and offers practical code examples for each step.
+
+This article helped me in my analysis by providing clear instructions and code snippets to preprocess text data, transform it using TF-IDF, and build a logistic regression model to classify sentiments, which are crucial for my sentiment analysis on IMDB movie reviews.
