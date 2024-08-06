@@ -52,6 +52,24 @@ Relevance to my Work:
 *  Guides on preprocessing steps essential for cleaning and preparing textual
      data from IMDb or similar datasets.
 
+2. **The Medium article "Sentiment Analysis on IMDB Movie Review" by pyashpq56**: https://medium.com/@pyashpq56/sentiment-analysis-on-imdb-movie-review-d004f3e470bd.
+
+   It has provided valuable insights and methodologies that have significantly contributed to my analysis. This includes: 
+
+     * Sentiment Analysis Techniques:
+     The article provides a detailed overview of various sentiment analysis techniques, which I have incorporated into my project. 
+
+          + Preprocessing Steps: The article outlines essential preprocessing steps, such as tokenization, removing stop words, and                    lemmatization. These steps are crucial for cleaning the text data and preparing it my analysis.
+          + Lexicon-based Approaches: The article discusses the use of lexicon-based approaches, such as VADER, for sentiment analysis. I           have used this information to enhance my sentiment analysis pipeline.
+          + Machine Learning Models: The article provides a step-by-step guide on using machine learning models like Naive Bayes. This                has helped me implement and compare different models to identify the best performer for my dataset.
+
+     * Implementation of NLP Techniques
+     The article walks through the implementation of various NLP techniques using Python and popular libraries like NLTK, sklearn, and      pandas. This practical guidance has been instrumental in setting up my analysis environment and coding the sentiment analysis           pipeline.
+
+     * Feature Extraction
+     TF-IDF Vectorization: The article explains how to use TF-IDF vectorization to convert text data into numerical features, which can      then be used in machine learning models. This has helped me transform my textual reviews into a format suitable for model                training.
+     N-grams: The article emphasizes the importance of n-grams (bigrams and trigrams) in capturing context in text data. I have                applied this knowledge to enhance my feature extraction process.
+
+     * Model Evaluation and Optimization
+     Evaluation Metrics: The article highlights various evaluation metrics, such as accuracy, precision, recall, and F1-score, which I      have used to assess the performance of your sentiment analysis models.
      
-- Discuss at least 3-5 relevant resources (blog posts, tutorials, or academic papers with code implementations) related to your topic. You may use examples from the class.
-- Critically evaluate these resources, highlighting how they inform your approach and how your project differs or builds upon existing work.
